@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "moment-timezone": "^0.5.27",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   }
 }
